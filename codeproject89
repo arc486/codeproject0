@@ -1,0 +1,18 @@
+// JavaScript Document
+
+console.log(this class is really making me happy becuase i get to learn something new besides html and hope to learn more )
+
+var firstname = adam cintron;
+
+alert(firstname);
+
+let lastname = cintron;
+const age = 20 ;
+
+
+alert(age);
+
+
+git remote add origin https://github.com/arc486/codeproject9.git
+git branch -M main
+git push -u origin main
